@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(183, 158, 158);
+}
+
+.title {
+    color: whitesmoke;
+    text-align: center;
+}
+
+ul {
+    display: table;
+    margin: 0 auto;
+}
+
